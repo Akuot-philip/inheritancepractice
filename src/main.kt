@@ -28,7 +28,6 @@ fun main(){
     farmer.introduction()
     farmer.talk("can i get som kales")
 
-
 }
 open class Person(var name: String, var age: Int){
     fun talk(words:String){
